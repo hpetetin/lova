@@ -1,0 +1,7 @@
+[project]
+name = "lova"
+version = "0.1.0"
+description = "World's Holocene Volcanoes on a Dashboard, using the Global Volcanism Program Database."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
