@@ -1,5 +1,5 @@
 r"""
-Build SQLite database from
+Build SQLite database from CSV file
 
 AUTHOR:
     Hugo PETETIN
