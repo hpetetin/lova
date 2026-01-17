@@ -4,5 +4,6 @@ World's Holocene Volcanoes on a Dashboard, using the Global Volcanism Program Da
 ## TODO
 
 - [ ] Building the DB
-    - [ ] Use date format for last eruption value
-    - [ ] Use better data type for rock types (there can be several)
+    - [x] Use approximate number of years since last eruption
+    - [ ] ~~Use better data type for rock types (there can be several)~~
+    - [ ] Cast the longitude and latitude as REAL
